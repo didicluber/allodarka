@@ -1,0 +1,46 @@
+{% extends 'base.html.twig' %}
+
+{% block body %}
+    <h1>Cinema</h1>
+
+    {{ google_map(map) }}
+
+    <table>
+        <tbody>
+            <tr>
+                <th>Id</th>
+                <td>{{ cinema.id }}</td>
+            </tr>
+            <tr>
+                <th>Labelcinema</th>
+                <td>{{ cinema.labelcinema }}</td>
+            </tr>
+            <tr>
+                <th>Adresse</th>
+                <td>{{ cinema.adresse }}</td>
+            </tr>
+            <tr>
+                <th>Cp</th>
+                <td>{{ cinema.cp }}</td>
+            </tr>
+            <tr>
+                <th>Ville</th>
+                <td>{{ cinema.ville }}</td>
+            </tr>
+        </tbody>
+    </table>
+
+    <ul>
+        <li>
+            <a href="{{ path('cinema_index') }}">Back to the list</a>
+        </li>
+        <li>
+            <a href="{{ path('cinema_edit', { 'id': cinema.id }) }}">Edit</a>
+        </li>
+        <li>
+            {{ form_start(delete_form) }}
+                <input type="submit" value="Delete">
+            {{ form_end(delete_form) }}
+        </li>
+    </ul>
+{% endblock %}

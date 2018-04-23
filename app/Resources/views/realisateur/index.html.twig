@@ -1,0 +1,37 @@
+{% extends 'base.html.twig' %}
+
+{% block body %}
+    <h1>Realisateurs list</h1>
+
+    <table>
+        <thead>
+            <tr>
+                <th>Id</th>
+                <th>Actions</th>
+            </tr>
+        </thead>
+        <tbody>
+        {% for realisateur in realisateurs %}
+            <tr>
+                <td><a href="{{ path('realisateur_show', { 'id': realisateur.id }) }}">{{ realisateur.id }}</a></td>
+                <td>
+                    <ul>
+                        <li>
+                            <a href="{{ path('realisateur_show', { 'id': realisateur.id }) }}">show</a>
+                        </li>
+                        <li>
+                            <a href="{{ path('realisateur_edit', { 'id': realisateur.id }) }}">edit</a>
+                        </li>
+                    </ul>
+                </td>
+            </tr>
+        {% endfor %}
+        </tbody>
+    </table>
+
+    <ul>
+        <li>
+            <a href="{{ path('realisateur_new') }}">Create a new realisateur</a>
+        </li>
+    </ul>
+{% endblock %}

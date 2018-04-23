@@ -1,0 +1,200 @@
+imports:
+    - { resource: parameters.yml }
+    - { resource: security.yml }
+    - { resource: services.yml }
+
+# Put parameters here that don't need to change on each machine where the app is deployed
+# https://symfony.com/doc/current/best_practices/configuration.html#application-related-configuration
+parameters:
+    locale: fr
+    app.path.product_images: /uploads/images/products
+
+
+framework:
+    #esi: ~
+    translator: { fallbacks: ['%locale%'] }
+    secret: '%secret%'
+    router:
+        resource: '%kernel.project_dir%/app/config/routing.yml'
+        strict_requirements: ~
+    form: ~
+    csrf_protection: ~
+    validation: { enable_annotations: true }
+    serializer:
+        enabled: true
+    default_locale: '%locale%'
+    trusted_hosts: ~
+    session:
+        # https://symfony.com/doc/current/reference/configuration/framework.html#handler-id
+        handler_id: session.handler.native_file
+        save_path: '%kernel.project_dir%/var/sessions/%kernel.environment%'
+    fragments: ~
+    http_method_override: true
+    assets: ~
+    php_errors:
+        log: true
+
+    translator: { fallbacks: [ "fr" ] }
+    templating:
+        engines: ['twig']
+# Twig Configuration
+twig:
+    debug: '%kernel.debug%'
+    strict_variables: '%kernel.debug%'
+    form_themes:
+          - 'GoogleMapsBundle:Form:google_maps_layout.html.twig'
+
+# Doctrine Configuration
+doctrine:
+    dbal:
+        driver: pdo_mysql
+        host: '%database_host%'
+        port: '%database_port%'
+        dbname: '%database_name%'
+        user: '%database_user%'
+        password: '%database_password%'
+        charset: UTF8
+        # if using pdo_sqlite as your database driver:
+        #   1. add the path in parameters.yml
+        #     e.g. database_path: '%kernel.project_dir%/var/data/data.sqlite'
+        #   2. Uncomment database_path in parameters.yml.dist
+        #   3. Uncomment next line:
+        #path: '%database_path%'
+
+    orm:
+        auto_generate_proxy_classes: '%kernel.debug%'
+        naming_strategy: doctrine.orm.naming_strategy.underscore
+        auto_mapping: true
+
+# Swiftmailer Configuration
+swiftmailer:
+    transport: '%mailer_transport%'
+    host: '%mailer_host%'
+    username: '%mailer_user%'
+    password: '%mailer_password%'
+    spool: { type: memory }
+
+
+easy_admin:
+    design:
+        menu:
+           - { entity: 'Acteur', label: 'Acteur', icon: 'star' }
+           - { entity: 'Categorie', label: 'Categorie', icon: 'list' }
+           - { entity: 'Film', label: 'Film', icon: 'film' }
+           - { entity: 'Realisateur', label: 'Realisateur', icon: 'user' }
+           - { entity: 'Cinema', label: 'Cinema', icon: 'video' }
+    entities:
+
+        Acteur:
+            class: AppBundle\Entity\Acteur
+        Categorie:
+            class: AppBundle\Entity\Categorie
+        Film:
+           class: AppBundle\Entity\Film
+           form:
+               fields:
+                   - 'title'
+                   - 'duree'
+                   - 'date'
+                   - 'description'
+                   - 'budget'
+                   - 'montantRecette'
+                   - { property: 'categorie', type: 'easyadmin_autocomplete' }
+                   - { property: 'aucinema', type: 'boolean', label: 'Au Cinema' }
+                   - { property: 'imageFile', type: 'vich_file' }
+                   - 'personnages'
+                   - 'realisateur'
+                   - 'aucinema'
+                   - 'filmjoue'
+
+           list:
+               fields:
+                  - { property: 'title', type: 'text', label: 'Titre' }
+                  - { property: 'duree', type: 'time', label: 'Durée du film' }
+                  - { property: 'image', type: 'image', base_path: '%app.path.product_images%' }
+                  - 'date'
+                  - 'budget'
+                  - 'description'
+                  - 'montantRecette'
+                  - 'categorie'
+                  - { property: 'aucinema', type: 'boolean', label: 'Au Cinema' }
+                  - 'personnages'
+                  - 'realisateur'
+               actions: ['show']
+           show:
+              fields:
+                  - 'title'
+                  - 'duree'
+                  - 'date'
+                  - 'description'
+                  - 'budget'
+                  - 'montantRecette'
+                  - 'categorie'
+                  - { property: 'image', type: 'image', base_path: '%app.path.product_images%' }
+                  - 'personnages'
+                  - 'realisateur'
+           edit:
+               title: 'Modifier le %%entity_label%%'
+               fields:
+                  - { property: 'duree', type: 'time', label: 'Durée du film' }
+                  - 'date'
+                  - 'description'
+                  - 'budget'
+                  - 'montantRecette'
+                  - 'categorie'
+                  - { property: 'imageFile', type: 'vich_file' }
+                  - 'aucinema'
+                  - 'filmjoue'
+                  - 'personnages'
+                  - 'realisateur'
+
+        Personnage:
+            class: AppBundle\Entity\Personnage
+        Realisateur:
+            class: AppBundle\Entity\Realisateur
+        Cinema:
+            class: AppBundle\Entity\Cinema
+
+    site_name: 'AlloDarka Backend'
+
+
+vich_uploader:
+    db_driver: orm
+
+        # ...
+    mappings:
+        product_images:
+             uri_prefix:         uploads/images/film
+             upload_destination: '%kernel.root_dir%/../web/uploads/images/film'
+             inject_on_load:     false
+             delete_on_update:   true
+             delete_on_remove:   true
+
+fos_user:
+    db_driver: orm # other valid values are 'mongodb' and 'couchdb'
+    firewall_name: main
+    user_class: AppBundle\Entity\User
+    service:                               # this lines
+        mailer: fos_user.mailer.twig_swift #
+    from_email:
+        address: "dylanouanounou@yahooo.fr"
+        sender_name: "Darkacine"
+
+
+google_maps:
+    api_key: 'AIzaSyAH-tm7rPBds39D8jnAKEZYd4z80liz1KI'
+#fos_rest:
+#    routing_loader:
+#        include_format: false
+#    view:
+#        view_response_listener: true
+#    format_listener:
+#        rules:
+#            - { path: '^/', priorities: ['json'], fallback_format: 'json', prefer_extension: false }
+#    # configuration à rajouter pour désactiver le body listener
+#    body_listener:
+#        enabled: false
+#
+#    exception:
+#            enabled: true
+#            exception_controller: 'Acme\AppBundle\Controller\ExceptionController::showAction'

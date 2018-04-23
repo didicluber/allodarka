@@ -1,0 +1,2003 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="0aa141b3-4b5d-48b5-b9e9-f9d615e2bb91" name="Default" comment="">
+      <change afterPath="$PROJECT_DIR$/../Angular6/.idea/Angular6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Angular6/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Angular6/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Education" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Education2" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Intelligeat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Intelligeatprojet" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../ProjetCommun" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Sonart" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../education-Symfony" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../edumiage" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../projetsymfony" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../symfonypc/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../symfonypc/.idea/commandlinetools/Symfony_30_11_17_12_17_s.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../symfonypc/.idea/commandlinetools/schemas/frameworkDescriptionVersion1.1.4.xsd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../symfonypc/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../symfonypc/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../symfonypc/.idea/symfony2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../symfonypc/.idea/symfonypc.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../symfonypc/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../symfonypc/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../symfonypc/app/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../symfonypc/app/AppCache.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../symfonypc/app/AppKernel.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../symfonypc/app/Resources/views/base.html.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../symfonypc/app/Resources/views/default/index.html.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../symfonypc/app/Resources/views/food/plat/edit.html.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../symfonypc/app/Resources/views/food/plat/index.html.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../symfonypc/app/Resources/views/food/plat/new.html.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../symfonypc/app/Resources/views/food/plat/show.html.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../symfonypc/app/Resources/views/ingredient/edit.html.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../symfonypc/app/Resources/views/ingredient/index.html.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../symfonypc/app/Resources/views/ingredient/new.html.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../symfonypc/app/Resources/views/ingredient/show.html.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../symfonypc/app/config/config.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../symfonypc/app/config/config_dev.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../symfonypc/app/config/config_prod.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../symfonypc/app/config/config_test.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../symfonypc/app/config/parameters.yml.dist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../symfonypc/app/config/routing.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../symfonypc/app/config/routing_dev.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../symfonypc/app/config/security.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../symfonypc/app/config/services.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../symfonypc/bin/console" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../symfonypc/bin/symfony_requirements" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../symfonypc/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../symfonypc/composer.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../symfonypc/composer.phar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../symfonypc/phpunit.xml.dist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../symfonypc/src/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../symfonypc/src/AppBundle/AppBundle.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../symfonypc/src/AppBundle/Controller/DefaultController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../symfonypc/src/FoodBundle/Controller/DefaultController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../symfonypc/src/FoodBundle/Controller/Food/PlatController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../symfonypc/src/FoodBundle/Controller/IngredientController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../symfonypc/src/FoodBundle/Entity/Food/Plat.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../symfonypc/src/FoodBundle/Entity/IngrQt.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../symfonypc/src/FoodBundle/Entity/Ingredient.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../symfonypc/src/FoodBundle/FoodBundle.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../symfonypc/src/FoodBundle/Form/Food/PlatType.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../symfonypc/src/FoodBundle/Form/IngredientType.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../symfonypc/src/FoodBundle/Repository/Food/PlatRepository.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../symfonypc/src/FoodBundle/Repository/IngrQtRepository.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../symfonypc/src/FoodBundle/Repository/IngredientRepository.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../symfonypc/src/FoodBundle/Resources/config/services.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../symfonypc/src/FoodBundle/Resources/views/Default/index.html.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../symfonypc/src/FoodBundle/Tests/Controller/Food/PlatControllerTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../symfonypc/src/FoodBundle/Tests/Controller/IngredientControllerTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../symfonypc/tests/AppBundle/Controller/DefaultControllerTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../symfonypc/tests/FoodBundle/Controller/DefaultControllerTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../symfonypc/var/SymfonyRequirements.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../symfonypc/var/cache/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../symfonypc/var/logs/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../symfonypc/var/sessions/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../symfonypc/web/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../symfonypc/web/app.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../symfonypc/web/app_dev.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../symfonypc/web/apple-touch-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../symfonypc/web/config.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../symfonypc/web/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../symfonypc/web/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../symfonytestyassine" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../univProject" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../universite/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../universite/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../universite/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../universite/.idea/symfony2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../universite/.idea/universite.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../universite/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../universite/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../universite/app/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../universite/app/AppCache.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../universite/app/AppKernel.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../universite/app/Resources/views/base.html.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../universite/app/Resources/views/default/index.html.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../universite/app/Resources/views/etudiant/index.html.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../universite/app/Resources/views/etudiant/show.html.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../universite/app/Resources/views/matiere/edit.html.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../universite/app/Resources/views/matiere/index.html.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../universite/app/Resources/views/matiere/new.html.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../universite/app/Resources/views/matiere/show.html.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../universite/app/Resources/views/note/edit.html.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../universite/app/Resources/views/note/index.html.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../universite/app/Resources/views/note/new.html.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../universite/app/Resources/views/note/show.html.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../universite/app/Resources/views/professeur/edit.html.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../universite/app/Resources/views/professeur/index.html.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../universite/app/Resources/views/professeur/new.html.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../universite/app/Resources/views/professeur/show.html.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../universite/app/config/config.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../universite/app/config/config_dev.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../universite/app/config/config_prod.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../universite/app/config/config_test.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../universite/app/config/parameters.yml.dist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../universite/app/config/routing.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../universite/app/config/routing_dev.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../universite/app/config/security.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../universite/app/config/services.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../universite/bin/console" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../universite/bin/symfony_requirements" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../universite/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../universite/composer.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../universite/phpunit.xml.dist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../universite/src/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../universite/src/AppBundle/AppBundle.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../universite/src/AppBundle/Controller/DefaultController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../universite/src/AppBundle/Controller/etudiantController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../universite/src/AppBundle/Controller/matiereController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../universite/src/AppBundle/Controller/noteController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../universite/src/AppBundle/Controller/professeurController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../universite/src/AppBundle/Entity/etudiant.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../universite/src/AppBundle/Entity/matiere.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../universite/src/AppBundle/Entity/note.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../universite/src/AppBundle/Entity/professeur.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../universite/src/AppBundle/Form/matiereType.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../universite/src/AppBundle/Form/noteType.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../universite/src/AppBundle/Form/professeurType.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../universite/src/AppBundle/Repository/etudiantRepository.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../universite/src/AppBundle/Repository/matiereRepository.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../universite/src/AppBundle/Repository/noteRepository.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../universite/src/AppBundle/Repository/professeurRepository.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../universite/src/AppBundle/Tests/Controller/etudiantControllerTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../universite/src/AppBundle/Tests/Controller/matiereControllerTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../universite/src/AppBundle/Tests/Controller/noteControllerTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../universite/src/AppBundle/Tests/Controller/professeurControllerTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../universite/tests/AppBundle/Controller/DefaultControllerTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../universite/var/SymfonyRequirements.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../universite/var/cache/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../universite/var/logs/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../universite/var/sessions/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../universite/web/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../universite/web/app.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../universite/web/app_dev.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../universite/web/apple-touch-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../universite/web/config.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../universite/web/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../universite/web/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/untitled.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/webServers.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/.user.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/license.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/php.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/php5.ini" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/readme.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-activate.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/about.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/admin-ajax.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/admin-footer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/admin-functions.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/admin-header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/admin-post.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/admin.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/async-upload.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/comment.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/credits.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/css/about-rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/css/about-rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/css/about.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/css/about.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/css/admin-menu-rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/css/admin-menu-rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/css/admin-menu.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/css/admin-menu.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/css/color-picker-rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/css/color-picker-rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/css/color-picker.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/css/color-picker.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/css/colors/_admin.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/css/colors/_mixins.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/css/colors/_variables.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/css/colors/blue/colors-rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/css/colors/blue/colors-rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/css/colors/blue/colors.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/css/colors/blue/colors.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/css/colors/blue/colors.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/css/colors/coffee/colors-rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/css/colors/coffee/colors-rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/css/colors/coffee/colors.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/css/colors/coffee/colors.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/css/colors/coffee/colors.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/css/colors/ectoplasm/colors-rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/css/colors/ectoplasm/colors-rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/css/colors/ectoplasm/colors.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/css/colors/ectoplasm/colors.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/css/colors/ectoplasm/colors.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/css/colors/light/colors-rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/css/colors/light/colors-rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/css/colors/light/colors.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/css/colors/light/colors.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/css/colors/light/colors.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/css/colors/midnight/colors-rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/css/colors/midnight/colors-rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/css/colors/midnight/colors.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/css/colors/midnight/colors.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/css/colors/midnight/colors.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/css/colors/ocean/colors-rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/css/colors/ocean/colors-rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/css/colors/ocean/colors.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/css/colors/ocean/colors.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/css/colors/ocean/colors.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/css/colors/sunrise/colors-rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/css/colors/sunrise/colors-rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/css/colors/sunrise/colors.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/css/colors/sunrise/colors.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/css/colors/sunrise/colors.scss" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/css/common-rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/css/common-rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/css/common.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/css/common.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/css/customize-controls-rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/css/customize-controls-rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/css/customize-controls.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/css/customize-controls.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/css/customize-nav-menus-rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/css/customize-nav-menus-rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/css/customize-nav-menus.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/css/customize-nav-menus.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/css/customize-widgets-rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/css/customize-widgets-rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/css/customize-widgets.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/css/customize-widgets.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/css/dashboard-rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/css/dashboard-rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/css/dashboard.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/css/dashboard.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/css/deprecated-media-rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/css/deprecated-media-rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/css/deprecated-media.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/css/deprecated-media.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/css/edit-rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/css/edit-rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/css/edit.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/css/edit.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/css/farbtastic-rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/css/farbtastic-rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/css/farbtastic.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/css/farbtastic.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/css/forms-rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/css/forms-rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/css/forms.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/css/forms.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/css/ie-rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/css/ie-rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/css/ie.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/css/ie.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/css/install-rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/css/install-rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/css/install.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/css/install.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/css/l10n-rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/css/l10n-rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/css/l10n.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/css/l10n.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/css/list-tables-rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/css/list-tables-rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/css/list-tables.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/css/list-tables.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/css/login-rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/css/login-rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/css/login.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/css/login.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/css/media-rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/css/media-rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/css/media.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/css/media.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/css/nav-menus-rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/css/nav-menus-rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/css/nav-menus.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/css/nav-menus.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/css/press-this-editor-rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/css/press-this-editor-rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/css/press-this-editor.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/css/press-this-editor.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/css/press-this-rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/css/press-this-rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/css/press-this.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/css/press-this.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/css/revisions-rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/css/revisions-rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/css/revisions.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/css/revisions.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/css/site-icon-rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/css/site-icon-rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/css/site-icon.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/css/site-icon.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/css/themes-rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/css/themes-rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/css/themes.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/css/themes.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/css/widgets-rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/css/widgets-rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/css/widgets.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/css/widgets.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/css/wp-admin-rtl.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/css/wp-admin-rtl.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/css/wp-admin.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/css/wp-admin.min.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/custom-background.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/custom-header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/customize.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/edit-comments.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/edit-form-advanced.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/edit-form-comment.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/edit-link-form.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/edit-tag-form.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/edit-tags.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/edit.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/export.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/freedoms.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/images/align-center-2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/images/align-center.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/images/align-left-2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/images/align-left.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/images/align-none-2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/images/align-none.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/images/align-right-2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/images/align-right.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/images/arrows-2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/images/arrows.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/images/browser-rtl.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/images/browser.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/images/bubble_bg-2x.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/images/bubble_bg.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/images/comment-grey-bubble-2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/images/comment-grey-bubble.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/images/date-button-2x.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/images/date-button.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/images/generic.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/images/icons32-2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/images/icons32-vs-2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/images/icons32-vs.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/images/icons32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/images/imgedit-icons-2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/images/imgedit-icons.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/images/list-2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/images/list.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/images/loading.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/images/marker.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/images/mask.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/images/media-button-2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/images/media-button-image.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/images/media-button-music.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/images/media-button-other.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/images/media-button-video.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/images/media-button.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/images/menu-2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/images/menu-vs-2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/images/menu-vs.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/images/menu.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/images/no.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/images/post-formats-vs.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/images/post-formats.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/images/post-formats32-vs.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/images/post-formats32.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/images/resize-2x.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/images/resize-rtl-2x.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/images/resize-rtl.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/images/resize.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/images/se.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/images/sort-2x.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/images/sort.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/images/spinner-2x.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/images/spinner.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/images/stars-2x.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/images/stars.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/images/w-logo-blue.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/images/w-logo-white.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/images/wheel.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/images/wordpress-logo-white.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/images/wordpress-logo.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/images/wordpress-logo.svg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/images/wpspin_light-2x.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/images/wpspin_light.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/images/xit-2x.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/images/xit.gif" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/images/yes.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/import.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/includes/admin-filters.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/includes/admin.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/includes/ajax-actions.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/includes/bookmark.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/includes/class-automatic-upgrader-skin.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/includes/class-bulk-plugin-upgrader-skin.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/includes/class-bulk-theme-upgrader-skin.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/includes/class-bulk-upgrader-skin.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/includes/class-core-upgrader.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/includes/class-file-upload-upgrader.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/includes/class-ftp-pure.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/includes/class-ftp-sockets.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/includes/class-ftp.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/includes/class-language-pack-upgrader-skin.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/includes/class-language-pack-upgrader.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/includes/class-pclzip.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/includes/class-plugin-installer-skin.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/includes/class-plugin-upgrader-skin.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/includes/class-plugin-upgrader.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/includes/class-theme-installer-skin.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/includes/class-theme-upgrader-skin.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/includes/class-theme-upgrader.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/includes/class-walker-category-checklist.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/includes/class-walker-nav-menu-checklist.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/includes/class-walker-nav-menu-edit.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/includes/class-wp-ajax-upgrader-skin.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/includes/class-wp-automatic-updater.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/includes/class-wp-comments-list-table.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/includes/class-wp-community-events.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/includes/class-wp-filesystem-base.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/includes/class-wp-filesystem-direct.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/includes/class-wp-filesystem-ftpext.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/includes/class-wp-filesystem-ftpsockets.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/includes/class-wp-filesystem-ssh2.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/includes/class-wp-importer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/includes/class-wp-internal-pointers.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/includes/class-wp-links-list-table.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/includes/class-wp-list-table-compat.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/includes/class-wp-list-table.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/includes/class-wp-media-list-table.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/includes/class-wp-ms-sites-list-table.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/includes/class-wp-ms-themes-list-table.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/includes/class-wp-ms-users-list-table.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/includes/class-wp-plugin-install-list-table.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/includes/class-wp-plugins-list-table.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/includes/class-wp-post-comments-list-table.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/includes/class-wp-posts-list-table.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/includes/class-wp-press-this.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/includes/class-wp-screen.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/includes/class-wp-site-icon.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/includes/class-wp-terms-list-table.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/includes/class-wp-theme-install-list-table.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/includes/class-wp-themes-list-table.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/includes/class-wp-upgrader-skin.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/includes/class-wp-upgrader-skins.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/includes/class-wp-upgrader.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/includes/class-wp-users-list-table.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/includes/comment.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/includes/continents-cities.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/includes/credits.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/includes/dashboard.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/includes/deprecated.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/includes/edit-tag-messages.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/includes/export.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/includes/file.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/includes/image-edit.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/includes/image.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/includes/import.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/includes/list-table.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/includes/media.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/includes/menu.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/includes/meta-boxes.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/includes/misc.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/includes/ms-admin-filters.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/includes/ms-deprecated.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/includes/ms.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/includes/nav-menu.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/includes/network.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/includes/noop.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/includes/options.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/includes/plugin-install.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/includes/plugin.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/includes/post.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/includes/revision.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/includes/schema.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/includes/screen.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/includes/taxonomy.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/includes/template.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/includes/theme-install.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/includes/theme.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/includes/translation-install.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/includes/update-core.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/includes/update.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/includes/upgrade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/includes/user.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/includes/widgets.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/install-helper.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/install.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/js/accordion.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/js/accordion.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/js/bookmarklet.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/js/bookmarklet.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/js/color-picker.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/js/color-picker.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/js/comment.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/js/comment.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/js/common.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/js/common.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/js/custom-background.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/js/custom-background.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/js/custom-header.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/js/customize-controls.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/js/customize-controls.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/js/customize-nav-menus.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/js/customize-nav-menus.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/js/customize-widgets.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/js/customize-widgets.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/js/dashboard.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/js/dashboard.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/js/edit-comments.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/js/edit-comments.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/js/editor-expand.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/js/editor-expand.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/js/editor.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/js/editor.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/js/farbtastic.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/js/gallery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/js/gallery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/js/image-edit.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/js/image-edit.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/js/inline-edit-post.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/js/inline-edit-post.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/js/inline-edit-tax.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/js/inline-edit-tax.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/js/iris.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/js/language-chooser.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/js/language-chooser.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/js/link.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/js/link.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/js/media-gallery.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/js/media-gallery.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/js/media-upload.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/js/media-upload.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/js/media.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/js/media.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/js/nav-menu.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/js/nav-menu.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/js/password-strength-meter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/js/password-strength-meter.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/js/plugin-install.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/js/plugin-install.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/js/post.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/js/post.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/js/postbox.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/js/postbox.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/js/press-this.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/js/press-this.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/js/revisions.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/js/revisions.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/js/set-post-thumbnail.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/js/set-post-thumbnail.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/js/svg-painter.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/js/svg-painter.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/js/tags-box.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/js/tags-box.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/js/tags-suggest.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/js/tags-suggest.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/js/tags.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/js/tags.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/js/theme.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/js/theme.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/js/updates.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/js/updates.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/js/user-profile.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/js/user-profile.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/js/user-suggest.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/js/user-suggest.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/js/widgets.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/js/widgets.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/js/widgets/media-audio-widget.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/js/widgets/media-audio-widget.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/js/widgets/media-image-widget.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/js/widgets/media-image-widget.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/js/widgets/media-video-widget.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/js/widgets/media-video-widget.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/js/widgets/media-widgets.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/js/widgets/media-widgets.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/js/widgets/text-widgets.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/js/widgets/text-widgets.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/js/word-count.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/js/word-count.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/js/wp-fullscreen-stub.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/js/wp-fullscreen-stub.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/js/xfn.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/js/xfn.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/link-add.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/link-manager.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/link-parse-opml.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/link.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/load-scripts.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/load-styles.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/maint/repair.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/media-new.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/media-upload.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/media.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/menu-header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/menu.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/moderation.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/ms-admin.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/ms-delete-site.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/ms-edit.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/ms-options.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/ms-sites.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/ms-themes.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/ms-upgrade-network.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/ms-users.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/my-sites.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/nav-menus.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/network.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/network/about.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/network/admin.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/network/credits.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/network/edit.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/network/freedoms.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/network/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/network/menu.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/network/plugin-editor.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/network/plugin-install.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/network/plugins.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/network/profile.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/network/settings.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/network/setup.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/network/site-info.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/network/site-new.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/network/site-settings.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/network/site-themes.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/network/site-users.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/network/sites.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/network/theme-editor.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/network/theme-install.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/network/themes.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/network/update-core.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/network/update.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/network/upgrade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/network/user-edit.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/network/user-new.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/network/users.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/options-discussion.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/options-general.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/options-head.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/options-media.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/options-permalink.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/options-reading.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/options-writing.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/options.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/plugin-editor.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/plugin-install.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/plugins.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/post-new.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/post.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/press-this.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/profile.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/revision.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/setup-config.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/term.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/theme-editor.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/theme-install.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/themes.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/tools.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/update-core.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/update.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/upgrade-functions.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/upgrade.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/upload.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/user-edit.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/user-new.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/user/about.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/user/admin.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/user/credits.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/user/freedoms.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/user/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/user/menu.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/user/profile.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/user/user-edit.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/users.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-admin/widgets.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-blog-header.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-comments-post.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-config-sample.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-config.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-content/envato-backups/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-content/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-content/jobcareer-backups/jobcareer-job-board-responsive-wordpress-theme.backup.2017-05-24-21-39-37.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-content/jobcareer-backups/jobcareer-job-board-responsive-wordpress-theme.backup.2017-06-01-22-14-33.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-content/jobcareer-backups/jobcareer-job-board-responsive-wordpress-theme.backup.2017-06-01-22-16-27.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-content/jobcareer-backups/jobcareer-job-board-responsive-wordpress-theme.backup.2017-06-01-22-18-23.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-content/jobcareer-backups/jobcareer-job-board-responsive-wordpress-theme.backup.2017-06-06-10-21-00.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-content/jobcareer-backups/jobcareer-job-board-responsive-wordpress-theme.backup.2017-06-06-11-09-23.zip" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-content/languages/admin-de_DE.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-content/languages/admin-de_DE.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-content/languages/admin-es_ES.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-content/languages/admin-es_ES.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-content/languages/admin-fr_FR.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-content/languages/admin-fr_FR.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-content/languages/admin-it_IT.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-content/languages/admin-it_IT.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-content/languages/admin-lt_LT.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-content/languages/admin-lt_LT.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-content/languages/admin-network-de_DE.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-content/languages/admin-network-de_DE.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-content/languages/admin-network-es_ES.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-content/languages/admin-network-es_ES.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-content/languages/admin-network-fr_FR.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-content/languages/admin-network-fr_FR.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-content/languages/admin-network-it_IT.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-content/languages/admin-network-it_IT.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-content/languages/admin-network-lt_LT.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-content/languages/admin-network-lt_LT.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-content/languages/admin-network-nl_NL.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-content/languages/admin-network-nl_NL.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-content/languages/admin-network-pl_PL.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-content/languages/admin-network-pl_PL.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-content/languages/admin-network-pt_PT.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-content/languages/admin-network-pt_PT.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-content/languages/admin-nl_NL.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-content/languages/admin-nl_NL.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-content/languages/admin-pl_PL.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-content/languages/admin-pl_PL.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-content/languages/admin-pt_PT.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-content/languages/admin-pt_PT.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-content/languages/continents-cities-de_DE.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-content/languages/continents-cities-de_DE.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-content/languages/continents-cities-es_ES.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-content/languages/continents-cities-es_ES.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-content/languages/continents-cities-fr_FR.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-content/languages/continents-cities-fr_FR.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-content/languages/continents-cities-it_IT.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-content/languages/continents-cities-it_IT.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-content/languages/continents-cities-lt_LT.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-content/languages/continents-cities-lt_LT.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-content/languages/continents-cities-nl_NL.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-content/languages/continents-cities-nl_NL.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-content/languages/continents-cities-pl_PL.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-content/languages/continents-cities-pl_PL.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-content/languages/continents-cities-pt_PT.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-content/languages/continents-cities-pt_PT.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-content/languages/de_DE.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-content/languages/de_DE.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-content/languages/es_ES.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-content/languages/es_ES.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-content/languages/fr_FR.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-content/languages/fr_FR.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-content/languages/it_IT.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-content/languages/it_IT.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-content/languages/loco/themes/jobcareer-pt_PT.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-content/languages/loco/themes/jobcareer-pt_PT.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-content/languages/lt_LT.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-content/languages/lt_LT.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-content/languages/nl_NL.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-content/languages/nl_NL.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-content/languages/pl_PL.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-content/languages/pl_PL.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-content/languages/plugins/akismet-de_DE.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-content/languages/plugins/akismet-de_DE.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-content/languages/plugins/akismet-es_ES.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-content/languages/plugins/akismet-es_ES.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-content/languages/plugins/akismet-fr_FR.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-content/languages/plugins/akismet-fr_FR.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-content/languages/plugins/akismet-it_IT.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-content/languages/plugins/akismet-it_IT.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-content/languages/plugins/akismet-lt_LT.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-content/languages/plugins/akismet-lt_LT.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-content/languages/plugins/akismet-nl_NL.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-content/languages/plugins/akismet-nl_NL.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-content/languages/plugins/akismet-pl_PL.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-content/languages/plugins/akismet-pl_PL.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-content/languages/plugins/akismet-pt_PT.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-content/languages/plugins/akismet-pt_PT.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-content/languages/plugins/child-theme-wizard-fr_FR.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-content/languages/plugins/child-theme-wizard-fr_FR.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-content/languages/plugins/contact-form-7-de_DE.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-content/languages/plugins/contact-form-7-de_DE.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-content/languages/plugins/contact-form-7-es_ES.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-content/languages/plugins/contact-form-7-es_ES.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-content/languages/plugins/contact-form-7-fr_FR.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-content/languages/plugins/contact-form-7-fr_FR.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-content/languages/plugins/contact-form-7-it_IT.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-content/languages/plugins/contact-form-7-it_IT.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-content/languages/plugins/contact-form-7-nl_NL.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-content/languages/plugins/contact-form-7-nl_NL.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-content/languages/plugins/contact-form-7-pl_PL.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-content/languages/plugins/contact-form-7-pl_PL.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-content/languages/plugins/contact-form-7-pt_PT.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-content/languages/plugins/contact-form-7-pt_PT.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-content/languages/plugins/loco-translate-de_DE.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-content/languages/plugins/loco-translate-de_DE.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-content/languages/plugins/loco-translate-es_ES.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-content/languages/plugins/loco-translate-es_ES.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-content/languages/plugins/loco-translate-fr_FR.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-content/languages/plugins/loco-translate-fr_FR.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-content/languages/plugins/loco-translate-it_IT.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-content/languages/plugins/loco-translate-it_IT.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-content/languages/plugins/loco-translate-pt_PT.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-content/languages/plugins/loco-translate-pt_PT.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-content/languages/plugins/tinymce-advanced-de_DE.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-content/languages/plugins/tinymce-advanced-de_DE.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-content/languages/plugins/tinymce-advanced-es_ES.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-content/languages/plugins/tinymce-advanced-es_ES.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-content/languages/plugins/tinymce-advanced-fr_FR.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-content/languages/plugins/tinymce-advanced-fr_FR.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-content/languages/plugins/tinymce-advanced-lt_LT.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-content/languages/plugins/tinymce-advanced-lt_LT.po" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled/wp-content/languages/plugins/tinymce-advanced-nl_NL.mo" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/.idea/untitled1.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/.idea/webServers.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/npm" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled1/untitled1.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled10/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled10/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled10/.idea/untitled10.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled10/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled10/untitled10.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled11/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled11/.idea/untitled11.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled11/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled2/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled2/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled2/.idea/untitled2.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled2/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled2/index.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled2/simple_html_dom.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled3/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled3/.idea/untitled3.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled3/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled4/.idea/deployment.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled4/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled4/.idea/untitled4.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled4/.idea/webServers.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled4/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled5/.editorconfig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled5/.gitattributes" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled5/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled5/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled5/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled5/.idea/untitled5.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled5/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled5/404.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled5/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled5/browserconfig.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled5/css/main.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled5/css/normalize.css" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled5/doc/TOC.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled5/doc/css.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled5/doc/extend.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled5/doc/faq.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled5/doc/html.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled5/doc/js.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled5/doc/misc.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled5/doc/usage.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled5/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled5/humans.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled5/icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled5/img/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled5/index.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled5/insulte.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled5/js/main.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled5/js/plugins.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled5/js/vendor/jquery-3.2.1.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled5/js/vendor/modernizr-3.5.0.min.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled5/robots.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled5/search.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled5/site.webmanifest" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled5/societe.js" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled5/tile-wide.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled5/tile.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled6/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled6/.idea/untitled6.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled6/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled6/composer.phar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled7/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled7/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled7/.idea/untitled7.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled7/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled7/Command/ConnectCommand.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled7/Command/PullCommand.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled7/Command/PushCommand.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled7/Command/RegisterCommand.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled7/Command/TranslateCommand.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled7/Controller/LanguaraController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled7/DependencyInjection/Configuration.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled7/DependencyInjection/LanguaraSymfonyExtension.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled7/Driver/ResourceGroupDriverInterface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled7/Driver/SymfonyResourceGroupDriver.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled7/LanguaraSymfonyBundle.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled7/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled7/Resources/config/routing.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled7/Resources/config/services.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled7/Resources/config/static_resources.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled7/Wrapper/LanguaraWrapper.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled7/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled7/composer.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled7/composer.phar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled7/vendor/autoload.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled7/vendor/composer/ClassLoader.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled7/vendor/composer/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled7/vendor/composer/autoload_classmap.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled7/vendor/composer/autoload_files.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled7/vendor/composer/autoload_namespaces.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled7/vendor/composer/autoload_psr4.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled7/vendor/composer/autoload_real.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled7/vendor/composer/autoload_static.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled7/vendor/composer/installed.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled7/vendor/guzzlehttp/guzzle/CHANGELOG.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled7/vendor/guzzlehttp/guzzle/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled7/vendor/guzzlehttp/guzzle/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled7/vendor/guzzlehttp/guzzle/UPGRADING.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled7/vendor/guzzlehttp/guzzle/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled7/vendor/guzzlehttp/guzzle/src/Client.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled7/vendor/guzzlehttp/guzzle/src/ClientInterface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled7/vendor/guzzlehttp/guzzle/src/Cookie/CookieJar.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled7/vendor/guzzlehttp/guzzle/src/Cookie/CookieJarInterface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled7/vendor/guzzlehttp/guzzle/src/Cookie/FileCookieJar.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled7/vendor/guzzlehttp/guzzle/src/Cookie/SessionCookieJar.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled7/vendor/guzzlehttp/guzzle/src/Cookie/SetCookie.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled7/vendor/guzzlehttp/guzzle/src/Exception/BadResponseException.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled7/vendor/guzzlehttp/guzzle/src/Exception/ClientException.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled7/vendor/guzzlehttp/guzzle/src/Exception/ConnectException.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled7/vendor/guzzlehttp/guzzle/src/Exception/GuzzleException.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled7/vendor/guzzlehttp/guzzle/src/Exception/RequestException.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled7/vendor/guzzlehttp/guzzle/src/Exception/SeekException.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled7/vendor/guzzlehttp/guzzle/src/Exception/ServerException.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled7/vendor/guzzlehttp/guzzle/src/Exception/TooManyRedirectsException.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled7/vendor/guzzlehttp/guzzle/src/Exception/TransferException.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled7/vendor/guzzlehttp/guzzle/src/Handler/CurlFactory.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled7/vendor/guzzlehttp/guzzle/src/Handler/CurlFactoryInterface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled7/vendor/guzzlehttp/guzzle/src/Handler/CurlHandler.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled7/vendor/guzzlehttp/guzzle/src/Handler/CurlMultiHandler.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled7/vendor/guzzlehttp/guzzle/src/Handler/EasyHandle.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled7/vendor/guzzlehttp/guzzle/src/Handler/MockHandler.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled7/vendor/guzzlehttp/guzzle/src/Handler/Proxy.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled7/vendor/guzzlehttp/guzzle/src/Handler/StreamHandler.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled7/vendor/guzzlehttp/guzzle/src/HandlerStack.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled7/vendor/guzzlehttp/guzzle/src/MessageFormatter.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled7/vendor/guzzlehttp/guzzle/src/Middleware.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled7/vendor/guzzlehttp/guzzle/src/Pool.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled7/vendor/guzzlehttp/guzzle/src/PrepareBodyMiddleware.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled7/vendor/guzzlehttp/guzzle/src/RedirectMiddleware.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled7/vendor/guzzlehttp/guzzle/src/RequestOptions.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled7/vendor/guzzlehttp/guzzle/src/RetryMiddleware.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled7/vendor/guzzlehttp/guzzle/src/TransferStats.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled7/vendor/guzzlehttp/guzzle/src/UriTemplate.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled7/vendor/guzzlehttp/guzzle/src/functions.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled7/vendor/guzzlehttp/guzzle/src/functions_include.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled7/vendor/guzzlehttp/promises/CHANGELOG.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled7/vendor/guzzlehttp/promises/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled7/vendor/guzzlehttp/promises/Makefile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled7/vendor/guzzlehttp/promises/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled7/vendor/guzzlehttp/promises/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled7/vendor/guzzlehttp/promises/src/AggregateException.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled7/vendor/guzzlehttp/promises/src/CancellationException.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled7/vendor/guzzlehttp/promises/src/Coroutine.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled7/vendor/guzzlehttp/promises/src/EachPromise.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled7/vendor/guzzlehttp/promises/src/FulfilledPromise.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled7/vendor/guzzlehttp/promises/src/Promise.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled7/vendor/guzzlehttp/promises/src/PromiseInterface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled7/vendor/guzzlehttp/promises/src/PromisorInterface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled7/vendor/guzzlehttp/promises/src/RejectedPromise.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled7/vendor/guzzlehttp/promises/src/RejectionException.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled7/vendor/guzzlehttp/promises/src/TaskQueue.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled7/vendor/guzzlehttp/promises/src/TaskQueueInterface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled7/vendor/guzzlehttp/promises/src/functions.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled7/vendor/guzzlehttp/promises/src/functions_include.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled7/vendor/guzzlehttp/psr7/CHANGELOG.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled7/vendor/guzzlehttp/psr7/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled7/vendor/guzzlehttp/psr7/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled7/vendor/guzzlehttp/psr7/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled7/vendor/guzzlehttp/psr7/src/AppendStream.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled7/vendor/guzzlehttp/psr7/src/BufferStream.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled7/vendor/guzzlehttp/psr7/src/CachingStream.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled7/vendor/guzzlehttp/psr7/src/DroppingStream.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled7/vendor/guzzlehttp/psr7/src/FnStream.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled7/vendor/guzzlehttp/psr7/src/InflateStream.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled7/vendor/guzzlehttp/psr7/src/LazyOpenStream.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled7/vendor/guzzlehttp/psr7/src/LimitStream.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled7/vendor/guzzlehttp/psr7/src/MessageTrait.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled7/vendor/guzzlehttp/psr7/src/MultipartStream.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled7/vendor/guzzlehttp/psr7/src/NoSeekStream.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled7/vendor/guzzlehttp/psr7/src/PumpStream.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled7/vendor/guzzlehttp/psr7/src/Request.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled7/vendor/guzzlehttp/psr7/src/Response.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled7/vendor/guzzlehttp/psr7/src/ServerRequest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled7/vendor/guzzlehttp/psr7/src/Stream.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled7/vendor/guzzlehttp/psr7/src/StreamDecoratorTrait.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled7/vendor/guzzlehttp/psr7/src/StreamWrapper.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled7/vendor/guzzlehttp/psr7/src/UploadedFile.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled7/vendor/guzzlehttp/psr7/src/Uri.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled7/vendor/guzzlehttp/psr7/src/UriNormalizer.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled7/vendor/guzzlehttp/psr7/src/UriResolver.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled7/vendor/guzzlehttp/psr7/src/functions.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled7/vendor/guzzlehttp/psr7/src/functions_include.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled7/vendor/languara/core/Library/Lib_Languara.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled7/vendor/languara/core/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled7/vendor/languara/core/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled7/vendor/psr/http-message/CHANGELOG.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled7/vendor/psr/http-message/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled7/vendor/psr/http-message/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled7/vendor/psr/http-message/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled7/vendor/psr/http-message/src/MessageInterface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled7/vendor/psr/http-message/src/RequestInterface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled7/vendor/psr/http-message/src/ResponseInterface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled7/vendor/psr/http-message/src/ServerRequestInterface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled7/vendor/psr/http-message/src/StreamInterface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled7/vendor/psr/http-message/src/UploadedFileInterface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled7/vendor/psr/http-message/src/UriInterface.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled8" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled9/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled9/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled9/.idea/php.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled9/.idea/symfony2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled9/.idea/untitled9.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled9/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled9/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled9/app/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled9/app/AppCache.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled9/app/AppKernel.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled9/app/Resources/views/base.html.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled9/app/Resources/views/default/index.html.twig" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled9/app/config/config.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled9/app/config/config_dev.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled9/app/config/config_prod.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled9/app/config/config_test.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled9/app/config/parameters.yml.dist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled9/app/config/routing.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled9/app/config/routing_dev.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled9/app/config/security.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled9/app/config/services.yml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled9/bin/console" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled9/bin/symfony_requirements" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled9/composer.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled9/composer.lock" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled9/composer.phar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled9/phpunit.xml.dist" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled9/src/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled9/src/AppBundle/AppBundle.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled9/src/AppBundle/Controller/DefaultController.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled9/src/AppBundle/Entity/User.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled9/src/AppBundle/Form/UserType.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled9/src/AppBundle/Repository/UserRepository.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled9/tests/AppBundle/Controller/DefaultControllerTest.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled9/var/SymfonyRequirements.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled9/var/cache/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled9/var/logs/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled9/var/sessions/.gitkeep" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled9/web/.htaccess" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled9/web/app.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled9/web/app_dev.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled9/web/apple-touch-icon.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled9/web/config.php" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled9/web/favicon.ico" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../untitled9/web/robots.txt" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings" doNotAsk="true" executionDataType="PHAR" phpInterpreterId="c196c834-aa69-430c-beef-4edd67794edf" synchronizationState="SYNCHRONIZE">
+    <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
+    <pharPath>$PROJECT_DIR$/composer.phar</pharPath>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="index.html.twig" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Resources/views/default/index.html.twig">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="60">
+              <caret line="4" selection-start-line="4" selection-end-line="4" />
+              <folding>
+                <element signature="e#34#11702#0#Twig" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Film.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/AppBundle/Entity/Film.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="510">
+              <caret line="37" column="19" selection-start-line="37" selection-start-column="19" selection-end-line="37" selection-end-column="19" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="show.html.twig" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Resources/views/categorie/show.html.twig">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <caret selection-end-column="32" />
+              <folding>
+                <element signature="e#12#28#0#Twig" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="config.yml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/config/config.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="221">
+              <caret line="181" selection-start-line="181" selection-end-line="181" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CinemaType.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/AppBundle/Form/CinemaType.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="105">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+              <folding>
+                <element signature="e#34#74#0#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="show.html.twig" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Resources/views/cinema/show.html.twig">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="90">
+              <caret line="6" selection-start-line="6" selection-end-line="6" />
+              <folding>
+                <element signature="e#12#26#0#Twig" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html.twig" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/app/Resources/views/cinema/index.html.twig">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="510">
+              <caret line="34" column="20" selection-start-line="34" selection-start-column="20" selection-end-line="34" selection-end-column="20" />
+              <folding>
+                <element signature="e#12#28#0#Twig" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="base.html.twig" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/app/Resources/views/base.html.twig">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="51">
+              <caret line="31" column="21" lean-forward="true" selection-start-line="31" selection-start-column="21" selection-end-line="31" selection-end-column="21" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="CinemaController.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/AppBundle/Controller/CinemaController.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="-1039">
+              <caret line="10" selection-start-line="10" selection-end-line="10" />
+              <folding>
+                <element signature="e#40#68#0#PHP" expanded="true" />
+                <element signature="e#717#735#1#PHP" expanded="true" />
+                <element signature="e#779#803#0#PHP" expanded="true" />
+                <element signature="e#1504#1526#0#PHP" expanded="true" />
+                <element signature="e#1900#1923#0#PHP" expanded="true" />
+                <element signature="e#2704#2727#0#PHP" expanded="true" />
+                <element signature="e#4095#4113#1#PHP" expanded="true" />
+                <element signature="e#4426#4444#1#PHP" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Cinema.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/AppBundle/Entity/Cinema.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="337">
+              <caret line="52" selection-start-line="52" selection-end-line="52" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>App</find>
+      <find>parameters</find>
+      <find>Image</find>
+      <find>$file = $entity-&gt;getImage();</find>
+      <find>image</find>
+      <find>&quot;minimum-stabilit</find>
+      <find>seri</find>
+      <find>for</find>
+      <find>AppBundle\Entity\AppBundle\Entity\User</find>
+      <find>AppBundle\Entity\User</find>
+      <find>ppBundle\Entity\AppBundle\</find>
+      <find>@Sy</find>
+      <find>des</find>
+      <find>memo</find>
+      <find>se c</find>
+      <find>twig:</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>AppBundle</replace>
+      <replace>$illustration</replace>
+      <replace>Illustration</replace>
+      <replace>illustration</replace>
+    </replaceStrings>
+    <dirStrings>
+      <dir>$PROJECT_DIR$/src/AppBundle</dir>
+      <dir>$PROJECT_DIR$</dir>
+    </dirStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/AppBundle/Controller/ActeurController.php" />
+        <option value="$PROJECT_DIR$/src/AppBundle/Controller/RealisateurController.php" />
+        <option value="$PROJECT_DIR$/src/AppBundle/Services/ImageUpload.php" />
+        <option value="$PROJECT_DIR$/src/AppBundle/Repository/PersonnageRepository.php" />
+        <option value="$PROJECT_DIR$/src/AppBundle/Repository/RealisateurRepository.php" />
+        <option value="$PROJECT_DIR$/src/AppBundle/Repository/FilmRepository.php" />
+        <option value="$PROJECT_DIR$/src/AppBundle/Repository/ActeurRepository.php" />
+        <option value="$PROJECT_DIR$/src/AppBundle/Entity/Categorie.php" />
+        <option value="$PROJECT_DIR$/app/config/parameters.yml" />
+        <option value="$PROJECT_DIR$/src/AppBundle/EventListener/ImageUploadListener.php" />
+        <option value="$PROJECT_DIR$/app/config/services.yml" />
+        <option value="$PROJECT_DIR$/src/AppBundle/Entity/Realisateur.php" />
+        <option value="$PROJECT_DIR$/src/AppBundle/Entity/Personnage.php" />
+        <option value="$PROJECT_DIR$/src/AppBundle/Entity/User.php" />
+        <option value="$PROJECT_DIR$/app/config/security.yml" />
+        <option value="$PROJECT_DIR$/src/AppBundle/Controller/CategorieController.php" />
+        <option value="$PROJECT_DIR$/src/AppBundle/Controller/FilmController.php" />
+        <option value="$PROJECT_DIR$/web/app_dev.php" />
+        <option value="$PROJECT_DIR$/vendor/autoload.php" />
+        <option value="$PROJECT_DIR$/src/AppBundle/Resources/config/doctrine/AppBundle.Entity.Film.orm.yml" />
+        <option value="$PROJECT_DIR$/app/config/routing.yml" />
+        <option value="$PROJECT_DIR$/src/AppBundle/Form/FilmType.php" />
+        <option value="$PROJECT_DIR$/app/Resources/views/film/index.html.twig" />
+        <option value="$PROJECT_DIR$/src/AppBundle/Entity/Film.php" />
+        <option value="$PROJECT_DIR$/&quot;allodarka&quot;" />
+        <option value="$PROJECT_DIR$/src/AppBundle/Repository/CategorieRepository.php" />
+        <option value="$PROJECT_DIR$/src/AppBundle/Controller/DefaultController.php" />
+        <option value="$PROJECT_DIR$/app/Resources/views/default/index.html.twig" />
+        <option value="$PROJECT_DIR$/app/Resources/views/acteur/index.html.twig" />
+        <option value="$PROJECT_DIR$/src/AppBundle/Entity/Acteur.php" />
+        <option value="$PROJECT_DIR$/src/AppBundle/AdminForm/Field/DateTimeType.php" />
+        <option value="$PROJECT_DIR$/app/Resources/views/cinema/show.html.twig" />
+        <option value="$PROJECT_DIR$/composer.json" />
+        <option value="$PROJECT_DIR$/src/AppBundle/Controller/CinemaController.php" />
+        <option value="$PROJECT_DIR$/app/AppKernel.php" />
+        <option value="$PROJECT_DIR$/src/AppBundle/Entity/GoogleMaps.php" />
+        <option value="$PROJECT_DIR$/app/config/config.yml" />
+        <option value="$PROJECT_DIR$/src/AppBundle/Entity/Cinema.php" />
+        <option value="$PROJECT_DIR$/src/AppBundle/Form/CinemaType.php" />
+        <option value="$PROJECT_DIR$/app/Resources/views/categorie/show.html.twig" />
+        <option value="$PROJECT_DIR$/app/Resources/views/cinema/index.html.twig" />
+        <option value="$PROJECT_DIR$/app/Resources/views/base.html.twig" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration">
+    <include_path>
+      <path value="$PROJECT_DIR$/vendor/doctrine/lexer" />
+      <path value="$PROJECT_DIR$/vendor/sensio/framework-extra-bundle" />
+      <path value="$PROJECT_DIR$/vendor/twig/twig" />
+      <path value="$PROJECT_DIR$/vendor/sensio/distribution-bundle" />
+      <path value="$PROJECT_DIR$/vendor/sensio/generator-bundle" />
+      <path value="$PROJECT_DIR$/vendor/sensiolabs/security-checker" />
+      <path value="$PROJECT_DIR$/vendor/incenteev/composer-parameter-handler" />
+      <path value="$PROJECT_DIR$/vendor/psr/container" />
+      <path value="$PROJECT_DIR$/vendor/psr/cache" />
+      <path value="$PROJECT_DIR$/vendor/psr/log" />
+      <path value="$PROJECT_DIR$/vendor/psr/link" />
+      <path value="$PROJECT_DIR$/vendor/psr/simple-cache" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-apcu" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-intl-icu" />
+      <path value="$PROJECT_DIR$/vendor/symfony/swiftmailer-bundle" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php56" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-util" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-mbstring" />
+      <path value="$PROJECT_DIR$/vendor/symfony/monolog-bundle" />
+      <path value="$PROJECT_DIR$/vendor/symfony/symfony" />
+      <path value="$PROJECT_DIR$/vendor/symfony/phpunit-bridge" />
+      <path value="$PROJECT_DIR$/vendor/symfony/polyfill-php70" />
+      <path value="$PROJECT_DIR$/vendor/swiftmailer/swiftmailer" />
+      <path value="$PROJECT_DIR$/vendor/monolog/monolog" />
+      <path value="$PROJECT_DIR$/vendor/composer" />
+      <path value="$PROJECT_DIR$/vendor/jdorn/sql-formatter" />
+      <path value="$PROJECT_DIR$/vendor/paragonie/random_compat" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/doctrine-cache-bundle" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/cache" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/doctrine-bundle" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/common" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/collections" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/instantiator" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/dbal" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/inflector" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/annotations" />
+      <path value="$PROJECT_DIR$/vendor/fig/link-util" />
+      <path value="$PROJECT_DIR$/vendor/doctrine/orm" />
+      <path value="$PROJECT_DIR$/vendor/pagerfanta/pagerfanta" />
+      <path value="$PROJECT_DIR$/vendor/twig/extensions" />
+      <path value="$PROJECT_DIR$/vendor/easycorp/easyadmin-bundle" />
+      <path value="$PROJECT_DIR$/vendor/vich/uploader-bundle" />
+      <path value="$PROJECT_DIR$/vendor/jms/metadata" />
+      <path value="$PROJECT_DIR$/vendor/behat/transliterator" />
+      <path value="$PROJECT_DIR$/vendor/friendsofsymfony/user-bundle" />
+      <path value="$PROJECT_DIR$/vendor/friendsofsymfony/rest-bundle" />
+      <path value="$PROJECT_DIR$/vendor/willdurand/negotiation" />
+      <path value="$PROJECT_DIR$/vendor/willdurand/jsonp-callback-validator" />
+      <path value="$PROJECT_DIR$/vendor/symfony/asset" />
+      <path value="$PROJECT_DIR$/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/vendor/alterphp/easyadmin-extension-bundle" />
+      <path value="$PROJECT_DIR$/vendor/kevinrob/guzzle-cache-middleware" />
+      <path value="$PROJECT_DIR$/vendor/php-tmdb/api" />
+      <path value="$PROJECT_DIR$/vendor/php-tmdb/symfony" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/guzzle" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/psr7" />
+      <path value="$PROJECT_DIR$/vendor/guzzlehttp/promises" />
+      <path value="$PROJECT_DIR$/vendor/rtheunissen/guzzle-log-middleware" />
+      <path value="$PROJECT_DIR$/vendor/willdurand/geocoder" />
+      <path value="$PROJECT_DIR$/vendor/cyberjaw/google-maps-bundle" />
+    </include_path>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1680" />
+    <option name="height" value="1050" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="allodarka" type="b2602c69:ProjectViewProjectNode" />
+              <item name="allodarka" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="allodarka" type="b2602c69:ProjectViewProjectNode" />
+              <item name="allodarka" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="allodarka" type="b2602c69:ProjectViewProjectNode" />
+              <item name="allodarka" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="config" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="allodarka" type="b2602c69:ProjectViewProjectNode" />
+              <item name="allodarka" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Resources" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="allodarka" type="b2602c69:ProjectViewProjectNode" />
+              <item name="allodarka" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Resources" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="views" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="allodarka" type="b2602c69:ProjectViewProjectNode" />
+              <item name="allodarka" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Resources" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="views" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="acteur" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="allodarka" type="b2602c69:ProjectViewProjectNode" />
+              <item name="allodarka" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Resources" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="views" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="categorie" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="allodarka" type="b2602c69:ProjectViewProjectNode" />
+              <item name="allodarka" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Resources" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="views" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="cinema" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="allodarka" type="b2602c69:ProjectViewProjectNode" />
+              <item name="allodarka" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Resources" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="views" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="default" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="allodarka" type="b2602c69:ProjectViewProjectNode" />
+              <item name="allodarka" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="app" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Resources" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="views" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="film" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="allodarka" type="b2602c69:ProjectViewProjectNode" />
+              <item name="allodarka" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="allodarka" type="b2602c69:ProjectViewProjectNode" />
+              <item name="allodarka" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="AppBundle" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="allodarka" type="b2602c69:ProjectViewProjectNode" />
+              <item name="allodarka" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="AppBundle" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Controller" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="allodarka" type="b2602c69:ProjectViewProjectNode" />
+              <item name="allodarka" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="AppBundle" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Entity" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="allodarka" type="b2602c69:ProjectViewProjectNode" />
+              <item name="allodarka" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="AppBundle" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="EventListener" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="allodarka" type="b2602c69:ProjectViewProjectNode" />
+              <item name="allodarka" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="AppBundle" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Form" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="allodarka" type="b2602c69:ProjectViewProjectNode" />
+              <item name="allodarka" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="AppBundle" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Repository" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="allodarka" type="b2602c69:ProjectViewProjectNode" />
+              <item name="allodarka" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="src" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="AppBundle" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="Services" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="allodarka" type="b2602c69:ProjectViewProjectNode" />
+              <item name="allodarka" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="vendor" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="allodarka" type="b2602c69:ProjectViewProjectNode" />
+              <item name="allodarka" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="web" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+            <path>
+              <item name="allodarka" type="b2602c69:ProjectViewProjectNode" />
+              <item name="allodarka" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="web" type="2a2b976b:PhpTreeStructureProvider$1" />
+              <item name="images" type="2a2b976b:PhpTreeStructureProvider$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SearchEverywhereHistoryKey" value="cinemajou&#9;null&#9;null" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="/usr/local/bin/node" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/AppBundle/AdminForm/Field" />
+      <recent name="$PROJECT_DIR$/web/uploads/images/film" />
+      <recent name="$PROJECT_DIR$/web/uploads/images/products" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/web" />
+      <recent name="$PROJECT_DIR$/src/AppBundle/Entity" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="0aa141b3-4b5d-48b5-b9e9-f9d615e2bb91" name="Default" comment="" />
+      <created>1523294782859</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1523294782859</updated>
+      <workItem from="1523294817936" duration="26605000" />
+      <workItem from="1523376995816" duration="4070000" />
+      <workItem from="1523483180173" duration="65000" />
+      <workItem from="1523483264024" duration="8942000" />
+      <workItem from="1523548129948" duration="2410000" />
+      <workItem from="1523813642374" duration="1920000" />
+      <workItem from="1523817776674" duration="2000" />
+      <workItem from="1523881772567" duration="54000" />
+      <workItem from="1523881835445" duration="2657000" />
+      <workItem from="1523903914519" duration="199000" />
+      <workItem from="1523964790198" duration="25000" />
+      <workItem from="1523964825105" duration="1660000" />
+      <workItem from="1524041512728" duration="4250000" />
+      <workItem from="1524048647366" duration="21000" />
+      <workItem from="1524170544882" duration="2040000" />
+      <workItem from="1524414801576" duration="6699000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="61619000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
+    <editor active="true" />
+    <layout>
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16666667" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Event Log" order="7" sideWeight="0.51159954" side_tool="true" visible="true" weight="0.32923076" />
+      <window_info anchor="right" id="Database" order="3" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="7" />
+      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info active="true" anchor="bottom" id="Terminal" order="7" sideWeight="0.4884005" visible="true" weight="0.32923076" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/AppBundle/Repository/PersonnageRepository.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/vich/uploader-bundle/Mapping/Annotation/UploadableField.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" column="6" selection-start-line="12" selection-start-column="6" selection-end-line="12" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AppBundle/EventListener/ImageUploadListener.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="520">
+          <caret line="55" column="33" selection-start-line="55" selection-start-column="33" selection-end-line="55" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AppBundle/Services/ImageUpload.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="35" column="1" selection-start-line="35" selection-start-column="1" selection-end-line="35" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/services.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="518">
+          <caret line="35" selection-start-line="35" selection-end-line="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AppBundle/Controller/PersonnageController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1477" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AppBundle/Repository/ActeurRepository.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AppBundle/Entity/Realisateur.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1229">
+          <caret line="82" column="5" selection-start-line="82" selection-start-column="5" selection-end-line="82" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AppBundle/Repository/FilmRepository.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="31" column="9" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AppBundle/Entity/Personnage.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="262">
+          <caret line="39" selection-start-line="39" selection-end-line="39" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/security.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="720">
+          <caret line="48" column="43" selection-start-line="48" selection-start-column="43" selection-end-line="48" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Resources/views/categorie/index.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="188">
+          <caret line="17" column="20" selection-start-line="17" selection-start-column="20" selection-end-line="17" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AppBundle/Controller/FilmController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="45" column="36" selection-start-line="45" selection-start-column="36" selection-end-line="45" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/app_dev.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="20" column="4" selection-start-line="20" selection-start-column="4" selection-end-line="20" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/vendor/autoload.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AppBundle/Entity/User.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="375">
+          <caret line="26" column="1" selection-start-line="26" selection-start-column="1" selection-end-line="26" selection-end-column="1" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AppBundle/Resources/config/doctrine/AppBundle.Entity.Film.orm.yml" />
+    <entry file="file://$PROJECT_DIR$/src/AppBundle/Resources/config/doctrine/AppBundle.Entity.User.orm.yml" />
+    <entry file="file://$PROJECT_DIR$/app/config/routing.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/web/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="15405">
+          <caret line="1027" column="5" selection-start-line="1027" selection-start-column="5" selection-end-line="1027" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AppBundle/Form/FilmType.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="16" column="57" selection-start-line="16" selection-start-column="57" selection-end-line="16" selection-end-column="57" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/parameters.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.lock">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="30" column="29" selection-start-line="30" selection-start-column="29" selection-end-line="30" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AppBundle/Controller/CategorieController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="225">
+          <caret line="18" column="1" selection-start-line="18" selection-start-column="1" selection-end-line="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AppBundle/Entity/Categorie.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-263">
+          <caret line="17" column="6" selection-start-line="17" selection-start-column="6" selection-end-line="17" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AppBundle/Repository/CategorieRepository.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="15" selection-start-line="15" selection-end-line="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AppBundle/Controller/DefaultController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="555">
+          <caret line="39" column="11" selection-start-line="39" selection-start-column="11" selection-end-line="39" selection-end-column="11" />
+          <folding>
+            <element signature="e#447#472#0#PHP" expanded="true" />
+            <element signature="e#844#865#1#PHP" expanded="true" />
+            <element signature="e#1123#1149#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Resources/views/film/edit.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#12#26#0#Twig" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Resources/views/film/new.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#12#26#0#Twig" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Resources/views/cinema/edit.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#12#26#0#Twig" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Resources/views/cinema/new.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#12#26#0#Twig" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AppBundle/Entity/Acteur.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-414">
+          <caret line="6" column="54" selection-start-line="6" selection-start-column="54" selection-end-line="6" selection-end-column="54" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AppBundle/Controller/ActeurController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="570">
+          <caret line="49" column="102" selection-start-line="49" selection-start-column="102" selection-end-line="49" selection-end-column="102" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Resources/views/acteur/index.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="28" column="25" selection-start-line="28" selection-start-column="25" selection-end-line="28" selection-end-column="25" />
+          <folding>
+            <element signature="e#12#26#0#Twig" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AppBundle/Form/ActeurType.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="15" column="63" selection-start-line="15" selection-start-column="50" selection-end-line="15" selection-end-column="63" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AppBundle/AdminForm/Field/MyCustomDateType.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="22" column="2" selection-start-line="22" selection-start-column="2" selection-end-line="22" selection-end-column="2" />
+          <folding>
+            <element signature="e#133#193#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Resources/views/film/index.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="517">
+          <caret line="345" selection-start-line="345" selection-end-line="345" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Resources/views/film/show.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <element signature="e#12#26#0#Twig" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/composer.json">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="460">
+          <caret line="41" column="37" selection-start-line="41" selection-start-column="37" selection-end-line="41" selection-end-column="37" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/AppKernel.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="24" column="60" selection-start-line="24" selection-start-column="60" selection-end-line="24" selection-end-column="60" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AppBundle/Entity/Film.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="37" column="19" selection-start-line="37" selection-start-column="19" selection-end-line="37" selection-end-column="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AppBundle/Entity/GoogleMaps.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="195">
+          <caret line="13" lean-forward="true" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AppBundle/Controller/CinemaController.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1039">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+          <folding>
+            <element signature="e#40#68#0#PHP" expanded="true" />
+            <element signature="e#717#735#1#PHP" expanded="true" />
+            <element signature="e#779#803#0#PHP" expanded="true" />
+            <element signature="e#1504#1526#0#PHP" expanded="true" />
+            <element signature="e#1900#1923#0#PHP" expanded="true" />
+            <element signature="e#2704#2727#0#PHP" expanded="true" />
+            <element signature="e#4095#4113#1#PHP" expanded="true" />
+            <element signature="e#4426#4444#1#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AppBundle/Entity/Cinema.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="337">
+          <caret line="52" selection-start-line="52" selection-end-line="52" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/AppBundle/Form/CinemaType.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#34#74#0#PHP" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/config/config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="181" selection-start-line="181" selection-end-line="181" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Resources/views/default/index.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="4" selection-start-line="4" selection-end-line="4" />
+          <folding>
+            <element signature="e#34#11702#0#Twig" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Resources/views/cinema/show.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="6" selection-start-line="6" selection-end-line="6" />
+          <folding>
+            <element signature="e#12#26#0#Twig" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Resources/views/categorie/show.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-column="32" />
+          <folding>
+            <element signature="e#12#28#0#Twig" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Resources/views/cinema/index.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="510">
+          <caret line="34" column="20" selection-start-line="34" selection-start-column="20" selection-end-line="34" selection-end-column="20" />
+          <folding>
+            <element signature="e#12#28#0#Twig" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/app/Resources/views/base.html.twig">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="51">
+          <caret line="31" column="21" lean-forward="true" selection-start-line="31" selection-start-column="21" selection-end-line="31" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
